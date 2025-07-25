@@ -22,8 +22,8 @@ without_mask: 686 images
 Our model gave an accuracy of 99.8% on the training set and 99.2% on the test set.
 
 We got the following accuracy/loss training curve plot
+<img width="888" height="604" alt="image" src="https://github.com/user-attachments/assets/481d1d62-2517-4b73-9c2b-3d7d5a14f82d" />
 
-![results](https://github.com/Astitva_Maurya/face-mask-detection/blob/main/images/results.png)
 
 ## 🔍 test the model
 
