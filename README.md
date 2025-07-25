@@ -29,11 +29,13 @@ We got the following accuracy/loss training curve plot
 
 With Mask
 
-![With Mask results](https://github.com/Astitva_Maurya/face-mask-detection/blob/main/images/results2.png)
+<img width="613" height="524" alt="image" src="https://github.com/user-attachments/assets/878b7ffa-c0e9-49dc-a367-d7e886dd8344" />
+
 
 No Mask
 
-![No Mask results](https://github.com/Astitva_Maurya/face-mask-detection/blob/main/images/results1.png)
+<img width="619" height="523" alt="image" src="https://github.com/user-attachments/assets/556acb75-b5e6-4a63-8779-7df7b2be3636" />
+
 
 
 
